@@ -1,0 +1,13 @@
+#upload_button
+{
+	font-size:12px;
+	height:25;
+	width:75;
+	padding:2;
+	background-color:#E98074; color:#FFFFFF;
+	border-top:#E6615C;
+	border-right-color:#E6615C;
+	border-bottom-color:#452622;
+	border-left-color:#E6615C;
+	font-weight:bold;
+}

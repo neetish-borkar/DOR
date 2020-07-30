@@ -1,0 +1,15 @@
+#accept_button
+{
+	font-size:18px;
+	height:50;
+	width:250;
+	padding:2;
+	background-color:#E98074;
+	color:#FFFFFF;
+	border-top:#E6615C;
+	border-right-color:#E6615C;
+	border-bottom-color:#452622;
+	border-left-color:#E6615C;
+	font-weight:bold;
+	box-shadow:0px 0px 10px 1px rgb(0,0,0);
+}
